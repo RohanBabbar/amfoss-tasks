@@ -1,0 +1,1 @@
+I had already heard about linux but got more knowledge about the os in the workshop downloaded ubuntu in my laptop. At first it was showing some issues likeit was installed but was not booting but after consulting my friends and seniors the problems got fixed.

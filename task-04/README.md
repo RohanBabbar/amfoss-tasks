@@ -1,0 +1,1 @@
+This was a really big task for me because even though i knew some basics of python i could not understand anything in the code. I just followed the initial steps specified in the repo and followed the reference links provided. But after certain steps i was stuck at some point, that's when i took help from tutorials and bot proggrams and got through it.
