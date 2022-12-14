@@ -8,3 +8,4 @@
 | [Task-05](https://github.com/RohanBabbar/amfoss-tasks/tree/main/task-05)   | Find The Bug | Completed |
 | [Task-08](https://github.com/RohanBabbar/amfoss-tasks/tree/main/task-08)   | Internet Explorer | Completed |
 | [Task-10](https://github.com/RohanBabbar/amfoss-tasks/tree/main/task-10)   | Cs50 | Completed  Week 1|
+| [Task-11](https://github.com/RohanBabbar/amfoss-tasks/tree/main/task-11)   | Figma | Completed  |
